@@ -23,10 +23,10 @@
 ## Chapter 1
 <ol>
   <h3>Sockets, IPv4, and Simple Client/Server Programming</h3>
-  <li>Printing Machine's name and IPv4 Address</li>
+  <li><a href="https://www.youtube.com/watch?v=AsPBsU6zQ5M">Printing Machine's name and IPv4 Address</a></li>
   <li>Retrieving Remote Machine's IP Address</li>
-  <li>Converting integers to and from host to network byte order</li>
-  <li>Setting and Getting socket timeout</li>
+  <li><a href="https://www.youtube.com/watch?v=N5mLM8TJBZc&t=180s">Converting integers to and from host to network byte order</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ikcCOxQeK8Q&t=5s">Setting and Getting socket timeout</a></li>
   <li>Handling Socket Errors</li>
   <li>Modifying a socket's send/recieve buffer size</li>
   <li>Changing Socket to non blocking/ blocking mode</li>
